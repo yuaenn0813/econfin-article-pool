@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-- 上线后网址：`https://yuaenn0813.github.io/journal-article-pool/`
+- 上线后网址：`https://yuaenn0813.github.io/econfin-article-pool/`
 
 ## 功能
 
